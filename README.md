@@ -50,7 +50,8 @@ The confusion matrix is as follows:
 ![image](https://github.com/fasmina-nasar/0t8aeVdJRQKBz5At/assets/110358522/80e4979e-f7c9-4b5b-a3be-bd496666c262)
 
 I've calculated the feature importance using the coefficient gave me the follwing result:
-![Uploading image.png…]()
+![image](https://github.com/fasmina-nasar/0t8aeVdJRQKBz5At/assets/110358522/7a4a2803-8c64-4de5-b160-b37bb271ab96)
+
 
 From this we could conclude that, X6 (easiness to place the order through app) doesn't have much contribution to predict happiness of a customer while Delivery of order on time is the main factor for the happiness of the customer, followed by the satisfaction with the courier.
 
