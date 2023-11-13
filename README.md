@@ -5,13 +5,20 @@ Project Overivew
 ------------
 In a rapidly growing delivery startup, we're actively addressing challenges to ensure customer happiness. This project involves analyzing recent survey data to understand and improve customer satisfaction. By focusing on enhancing our services, we aim to drive positive experiences for customers and contribute to the growth of the delivery sector initiatives.
 Dataset involves 6 attributes and a target colum.
-    X1 : my order was delivered on time
-    X2 : contents of my order was as I expected
-    X3 : I ordered everything I wanted to order
-    X4 : I paid a good price for my order
-    X5 : I am satisfied with my courier
-    X6 : the app makes ordering easy for me
-    Y : target attribute (Y) with values indicating 0 (unhappy) and 1 (happy) customers
+
+        X1 : my order was delivered on time
+        
+        X2 : contents of my order was as I expected
+        
+        X3 : I ordered everything I wanted to order
+        
+        X4 : I paid a good price for my order
+        
+        X5 : I am satisfied with my courier
+        
+        X6 : the app makes ordering easy for me
+        
+        Y : target attribute (Y) with values indicating 0 (unhappy) and 1 (happy) customers
 
 Exploratory Data Analysis
 ------------
