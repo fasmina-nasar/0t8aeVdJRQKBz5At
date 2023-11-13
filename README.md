@@ -47,7 +47,9 @@ Based on results, however Logistic regression and Ridge classifier do have the s
 After conductiong hyperparameter tuning and feature selection, The best performed model is Logistic regression with 73% of accuracy with hyperparameters c=1 and penalty=l2.
 
 The confusion matrix is as follows:
+
 ![image](https://github.com/fasmina-nasar/0t8aeVdJRQKBz5At/assets/110358522/52844910-9f85-4221-8679-e323e45674f1)
+
 
 I've calculated the feature importance using the coefficient gave me the follwing result:
 ![image](https://github.com/fasmina-nasar/0t8aeVdJRQKBz5At/assets/110358522/7a4a2803-8c64-4de5-b160-b37bb271ab96)
