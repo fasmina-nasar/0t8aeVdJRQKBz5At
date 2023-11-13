@@ -27,7 +27,7 @@ From pearson correlation, it is clear that X4 (I paid a good price for my order)
 ------------
 
 To get best classification model for the data, I've implemented GridSearchCV to search for the best hyperparameters for the model. I've also calculated f1-score, accuracy score, roc-auc score and also elapsed time in creating the model. Results are given below:
-**| model | f1-score |accuracy score | roc_auc_score | elapsed_time | best_params |**
+| model | f1-score |accuracy score | roc_auc_score | elapsed_time | best_params |
 | --- | --- | --- | --- | --- | --- |
 | RandomForestClassifier | 0.521739 | 0.500000 | 0.500000 | 1.836226 | {'max_depth': 5, 'n_estimators': 100} |
 | GradientBoostingClassifier | 0.400000	| 0.454545 | 0.466667 | 1.447703 | {'max_depth': None, 'n_estimators': 100} |
